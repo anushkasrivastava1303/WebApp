@@ -1,5 +1,3 @@
-Certainly! Here's a more concise version without code snippets:
-
 # Devzery Web Application
 
 This web application uses Flask for the backend and React.js for the frontend.
@@ -79,11 +77,3 @@ devzery_web_app/
 ├── README.md
 └── other_project_files/
 ```
-
-## Contributing
-
-Contributions are welcome! Report bugs or suggest enhancements by opening an issue or submitting a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
