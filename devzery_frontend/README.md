@@ -8,9 +8,6 @@ This is a web application built with Flask for the backend and React.js for the 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -32,17 +29,17 @@ Make sure you have the following installed:
    ```bash
    cd backend
    
-## Install Python Dependencies
+### Install Python Dependencies
 pip install -r requirements.txt
 
 
-## Setup Flask App
+### Setup Flask App
 export FLASK_APP=app
 export FLASK_ENV=development
 flask run
 
 
-#FrontEnd (React.js)
+##FrontEnd (React.js)
 cd frontend
 npm install
 npm start
