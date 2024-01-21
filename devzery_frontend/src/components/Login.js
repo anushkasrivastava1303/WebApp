@@ -1,5 +1,6 @@
 // src/components/Login.js
 import React, { useState } from 'react';
+//import './styles.css';  // Import the CSS file
 
 const Login = () => {
   const [formData, setFormData] = useState({

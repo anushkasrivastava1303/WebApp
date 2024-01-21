@@ -1,5 +1,6 @@
 // src/components/AllProfiles.js
 import React from 'react';
+//import "./styles.css/";  // Import the CSS file
 
 const AllProfiles = ({ users }) => {
   // Implement logic to display all registered profiles

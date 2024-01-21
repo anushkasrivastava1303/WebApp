@@ -7,6 +7,7 @@ import Login from './components/Login';
 import PasswordReset from './components/PasswordReset';
 import Profile from './components/Profile';
 import AllProfiles from './components/AllProfiles';
+import './/styles.css';  // Import the CSS file
 
 function App() {
   const users = [];  // Add logic to fetch users from API

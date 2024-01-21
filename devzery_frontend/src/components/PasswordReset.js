@@ -1,5 +1,6 @@
 // src/components/PasswordReset.js
 import React, { useState } from 'react';
+//import './styles.css';  // Import the CSS file
 
 const PasswordReset = () => {
   const [email, setEmail] = useState('');
