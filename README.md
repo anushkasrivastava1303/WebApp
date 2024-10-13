@@ -1,4 +1,4 @@
-# Devzery Web Application
+#  Web Application
 
 This web application uses Flask for the backend and React.js for the frontend.
 
